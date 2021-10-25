@@ -1,4 +1,4 @@
-# krtana a computer Vision package:-
+# krtana a computer Vision package v0.0.1:-
 ## methods inside krtana's Detect class :-
 
 * build_hands().
