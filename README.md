@@ -1,20 +1,20 @@
-#krtana a computer Vision package:-
+# krtana a computer Vision package:-
 ## methods inside krtana's Detect class :-
 
 * build_hands().
 * build_face_mesh().
 * build_pose().
 
-#Installing process:-
+# Installing process:-
 
 * Make sure you have python3 installed in your system.
-#####Run the following command in cmd to install krtana.
+##### Run the following command in cmd to install krtana.
 
     
     pip install krtana
 
 
-#Example:-
+# Example:-
 
 ## Hand Tracking using krtana.
     import krtana
@@ -70,7 +70,7 @@
     webcam.release()  
     cv.destroyAllWindows()
 
-#Face Mesh using krtana:-
+# Face Mesh using krtana:-
 
     import krtana
 
@@ -93,7 +93,7 @@
     krtana.destroyAllWindows()
 
 
-#Face Mesh without using krtana:-
+# Face Mesh without using krtana:-
 
     import cv2 as cv
     import mediapipe as mp
@@ -188,7 +188,7 @@
     webcam.release()
     cv.destroyAllWindows()
 
-#About krtana:-
+# About krtana:-
 * krtana  depends on google's mediapipe and opencv, it was created to apply 
 machine learning in computer vision projects by just using few lines of code.
 * since krtana depends on cv2 you can access all the functions and attributes that are available in cv2 version '4.5.3'.
