@@ -1,5 +1,6 @@
 # krtana a computer Vision package v0.0.1:-
-### This module is not yet uploaded to pypi.
+### This module is still in development stage and not yet uploaded to pypi
+### it will be uploaded soon.
 ## methods inside krtana's Detect class :-
 
 * build_hands().
